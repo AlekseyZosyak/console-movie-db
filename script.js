@@ -1,6 +1,5 @@
 
 const numberOfFilms = Number(prompt('сколько фильмов вы смотрели?'));
-console.log(numberOfFilms)
 
 const personalMuvieDB = {
     count : numberOfFilms,
